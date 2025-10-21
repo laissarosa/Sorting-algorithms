@@ -1,0 +1,2 @@
+Tamanho: 1000000
+Tempo gasto: 0.040000 segundos
