@@ -1,2 +1,0 @@
-Tamanho: 1000
-Tempo gasto: 0.000000 segundos
