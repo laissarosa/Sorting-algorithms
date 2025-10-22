@@ -6,17 +6,17 @@ Este repositório contém implementações de algoritmos de ordenação em C, or
 **O que o projeto faz**
 
 O projeto compila e executa uma aplicação que:
-*Gera vetores de entrada (módulo array.c).
-*Apresenta um menu interativo (módulo menu.c) para escolher testes e algoritmos.
-*Executa os algoritmos de ordenação implementados (em algoritmo.c).
-*Salva instâncias/resultados em arquivo (em salvar_instancia.c).
-*Controlado pelo arquivo principal main.c.
+* Gera vetores de entrada (módulo array.c).
+* Apresenta um menu interativo (módulo menu.c) para escolher testes e algoritmos.
+* Executa os algoritmos de ordenação implementados (em algoritmo.c).
+* Salva instâncias/resultados em arquivo (em salvar_instancia.c).
+* Controlado pelo arquivo principal main.c.
 
 **Por que o projeto é útil**
 
-*Permite estudar e comparar na prática eficiência e comportamento de algoritmos de ordenação.
-*Facilita experimentos com diferentes tamanhos e tipos de entrada (aleatórios, ordenados, quase ordenados).
-*Útil para estudantes que querem aprender complexidade.
+* Permite estudar e comparar na prática eficiência e comportamento de algoritmos de ordenação.
+* Facilita experimentos com diferentes tamanhos e tipos de entrada (aleatórios, ordenados, quase ordenados).
+* Útil para estudantes que querem aprender complexidade.
 
 **[ENGLISH VERSION]**
 
@@ -26,14 +26,14 @@ This repository contains sorting algorithm implementations in C, organized in a 
 
 The application:
 
-*Generates input arrays (array.c).
-*Provides an interactive menu (menu.c) to select tests and algorithms.
-*Runs sorting algorithms implemented in algoritmo.c.
-*Saves instances/results to files (salvar_instancia.c).
-*Is driven by main.c.
+* Generates input arrays (array.c).
+* Provides an interactive menu (menu.c) to select tests and algorithms.
+* Runs sorting algorithms implemented in algoritmo.c.
+* Saves instances/results to files (salvar_instancia.c).
+* Is driven by main.c.
 
 **Why this project is useful**
 
-*Enables practical study and comparison of sorting algorithm performance.
-*Eases experiments with different sizes and input types (random, sorted, almost-sorted).
-*Great for students learning complexity.
+* Enables practical study and comparison of sorting algorithm performance.
+* Eases experiments with different sizes and input types (random, sorted, almost-sorted).
+* Great for students learning complexity.
