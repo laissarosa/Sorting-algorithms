@@ -1,4 +1,4 @@
-##**Algoritmos de Ordenação / Sorting Algorithms**
+## **Algoritmos de Ordenação / Sorting Algorithms**
 🇧🇷 **Sobre o projeto**
 
 Este repositório contém implementações de algoritmos de ordenação em C, organizadas em uma pasta com os principais módulos do programa. O foco é demonstrar e comparar o comportamento dos algoritmos usando diferentes vetores de entrada gerados pelo próprio projeto.
